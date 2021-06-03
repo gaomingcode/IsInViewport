@@ -4,9 +4,14 @@
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/is-in-viewport)](https://github.com/gaomingcode/isInViewport)
 [![Packagist License](https://img.shields.io/packagist/l/gaomingcode/is-in-viewport)](https://github.com/gaomingcode/isInViewport)
 
-================
-[![Build Status](https://travis-ci.org/zeusdeux/isInViewport.svg?branch=master)](https://travis-ci.org/zeusdeux/isInViewport)
-[![CDNJS](https://img.shields.io/cdnjs/v/is-in-viewport.svg)](https://cdnjs.com/libraries/is-in-viewport)
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/is-in-viewport
+```
+###
 
 An ultra-light jQuery plugin that tells you if the element is in the viewport, but with a twist.
 
@@ -16,8 +21,7 @@ For a more performant alternative, please take a look at [observe-element-in-vie
 
 **Note**: If you need this in a React application, please use the [use-is-in-viewport hook](https://github.com/zeusdeux/use-is-in-viewport).
 
-Installation
-----------------
+
 #### Using in a module
 
 ```js
