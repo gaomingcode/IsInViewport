@@ -1,4 +1,9 @@
-isInViewport.js
+# isInViewport.js
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/isInViewport.svg)](https://github.com/gaomingcode/isInViewport)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/is-in-viewport)](https://github.com/gaomingcode/isInViewport)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/is-in-viewport)](https://github.com/gaomingcode/isInViewport)
+
 ================
 [![Build Status](https://travis-ci.org/zeusdeux/isInViewport.svg?branch=master)](https://travis-ci.org/zeusdeux/isInViewport)
 [![CDNJS](https://img.shields.io/cdnjs/v/is-in-viewport.svg)](https://cdnjs.com/libraries/is-in-viewport)
