@@ -1,4 +1,19 @@
 {
-  "name":"gaomingcode/is-in-viewport",
-  "type": "library"
+    "name": "gaomingcode/is-in-viewport",
+    "description": "An ultra-light jQuery plugin that tells you if an element is in the viewport but with a twist. ",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "isinviewport"
+    ],
+    "homepage": "https://isinviewport.mudit.xyz/",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Mudit Ameta"
+        }
+    ]
 }
