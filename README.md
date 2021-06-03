@@ -11,7 +11,7 @@
 ```
 composer require gaomingcode/is-in-viewport
 ```
-===
+###
 
 An ultra-light jQuery plugin that tells you if the element is in the viewport, but with a twist.
 
