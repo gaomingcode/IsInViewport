@@ -6,7 +6,7 @@
         "MIT"
     ],
     "keywords": [
-        "isinviewport"
+        "isinviewport", "viewport", "jquery", "jquery-plugin"
     ],
     "homepage": "https://isinviewport.mudit.xyz/",
     "minimum-stability": "stable",
